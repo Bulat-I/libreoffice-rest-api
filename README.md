@@ -15,7 +15,7 @@ This project is written on Python and utilizes the following:
 
 Settings:
 * Default port: 2002
-* Default directory to search for incoming files: /var/lib/telegram-bot/incoming/
+* Default directory to search for incoming files: /var/lib/telegram-bot/input/
 
 Usage
 ========
